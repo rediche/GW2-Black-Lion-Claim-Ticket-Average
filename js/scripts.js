@@ -175,20 +175,3 @@ var average = function() {
 		});
 
 }
-var averageTicket = ((19*5)+(19*5)+(16*5)+(19*5)+(16*7)+(16*5)+(16*5)+(16*5)+(16*3)+(19*5)+(10*5)+(16*5)+(5*5))/(19+19+16+19+16+16+16+16+16+16+19+10+16+5);
-/*
-19*5 aether
-19*5 chaos
-16*5 dragon
-19*5 dream
-16*7 fused
-16*5 leyline
-16*5 lovestruck
-16*5 phoenix
-16*3 sclerite
-16*1 tempest
-19*5 tormented
-10*5 winter
-16*5 zodiac
-5*5  halloween
-*/
